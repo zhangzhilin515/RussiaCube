@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3db8ef3a930d94448151a5d10070bd8, type: 3}
+  m_Name: Treasure1
+  m_EditorClassIdentifier: 
+  tetrisBlockSOList:
+  - {fileID: 11400000, guid: 9a8b9fe3aee7f4b49b11deb4d31f2d84, type: 2}
+  - {fileID: 11400000, guid: 51a6be8095d54434489549323955a09f, type: 2}
+  - {fileID: 11400000, guid: 3e4f484529285d144b41a552236afcb5, type: 2}

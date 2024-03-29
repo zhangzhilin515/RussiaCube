@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a3a8185e6e983c46a896524aab8f6d3, type: 3}
+  m_Name: J Tetromeno
+  m_EditorClassIdentifier: 
+  Block: {fileID: 2471609788691352507, guid: 743e2a386732c604c9e8e12a9efbf47b, type: 3}
+  BlockName: JTetromeno
+  BlockSprite: {fileID: 21300000, guid: 7237fc16f7973fb46acb9e06634f5616, type: 3}
+  BlockNumber: 0
